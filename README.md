@@ -9,6 +9,7 @@ A Python script that automatically organizes files into folders based on their f
 - Organizes videos into Videos folder
 - Organizes music into Music folder
 - Organizes archives into Archives folder
+- Automatically creates folders if they do not exist
 
 ## Technologies Used
 
